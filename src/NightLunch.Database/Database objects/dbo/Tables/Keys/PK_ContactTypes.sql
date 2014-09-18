@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[ContactTypes]
+	ADD CONSTRAINT [PK_ContactTypes]
+	PRIMARY KEY NONCLUSTERED (Id)
